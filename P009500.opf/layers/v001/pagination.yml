@@ -1,0 +1,11 @@
+id: b9ab358c178e4c7f8407bcc94ba809a0
+annotation_type: pagination
+revision: '00001'
+annotations:
+- id: 6b90eecd7ebf4fbfb2613ca8e806757c
+  span:
+    start: 0
+    end: 655
+  page_index: 1a
+  page_info: null
+  reference: I1KG59800001
